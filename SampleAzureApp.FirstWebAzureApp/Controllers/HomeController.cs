@@ -15,7 +15,7 @@ namespace SampleAzureApp.FirstWebAzureApp.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Nivedita Bauskar's Page.";
+            ViewBag.Message = "Nivedita Bauskar's Page.Updated";
 
             return View();
         }
